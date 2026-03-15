@@ -6,8 +6,8 @@ Full-Stack Developer
 
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caramisca&layout=compact&theme=transparent&hide_border=true" />
-  <img width="40%" src="https://streak-stats.demolab.com?user=caramisca&theme=transparent&hide_border=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caramisca&layout=compact&theme=transparent&hide_border=true" />
+  <img width="30%" src="https://streak-stats.demolab.com?user=caramisca&theme=transparent&hide_border=true" />
 </p>
 
 
